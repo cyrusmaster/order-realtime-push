@@ -1,0 +1,5 @@
+D:\project\flink\code\订阅实时推送\采集任务\order-cdc\order-cdc\src\main\java\com\hzsun\zbp\order\util\CustomSchema.java
+D:\project\flink\code\订阅实时推送\采集任务\order-cdc\order-cdc\src\main\java\com\hzsun\zbp\order\util\StringSerialization.java
+D:\project\flink\code\订阅实时推送\采集任务\order-cdc\order-cdc\src\main\java\com\hzsun\zbp\order\config\properties.java
+D:\project\flink\code\订阅实时推送\采集任务\order-cdc\order-cdc\src\main\java\com\hzsun\zbp\order\sink\Kafka.java
+D:\project\flink\code\订阅实时推送\采集任务\order-cdc\order-cdc\src\main\java\com\hzsun\zbp\order\TestJob.java

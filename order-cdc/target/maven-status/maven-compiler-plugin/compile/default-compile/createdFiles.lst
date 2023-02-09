@@ -1,0 +1,7 @@
+com\hzsun\zbp\order\TestJob$1.class
+com\hzsun\zbp\order\TestJob$2.class
+com\hzsun\zbp\order\config\properties.class
+com\hzsun\zbp\order\sink\Kafka.class
+com\hzsun\zbp\order\TestJob.class
+com\hzsun\zbp\order\util\StringSerialization.class
+com\hzsun\zbp\order\util\CustomSchema.class
